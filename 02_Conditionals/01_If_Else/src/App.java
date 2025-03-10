@@ -29,11 +29,11 @@ public class App {
         }
 
         // if-elseif
-        int num = 3;
+        int num = -3;
         if (num > 0) {
             System.out.println("Number is +ve");
         } else if (num < 0) {
-            System.out.println("Number is -ve");
+            System.out.println("Number is -ve"); // Number is -ve
         } else {
             System.out.println("Number is equal to zero");
         }
